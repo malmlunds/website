@@ -6,7 +6,7 @@
     "feed_url": "https://malmlunds.ax/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Kreativa Uttryck AB"
+        "name": "Pernilla Malmlund"
     },
     "items": [
         {
@@ -16,12 +16,12 @@
             "summary": "Hej",
             "content_html": "<p>Hej</p>",
             "author": {
-                "name": "Kreativa Uttryck AB"
+                "name": "Pernilla Malmlund"
             },
             "tags": [
             ],
             "date_published": "2022-03-25T21:42:53+02:00",
-            "date_modified": "2022-03-25T21:42:53+02:00"
+            "date_modified": "2022-03-25T21:51:21+02:00"
         }
     ]
 }
