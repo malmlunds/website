@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Malmlunds stugor",
     "description": "",
-    "home_page_url": "https://malmlund.ax",
-    "feed_url": "https://malmlund.ax/feed.json",
+    "home_page_url": "https://malmlunds.ax",
+    "feed_url": "https://malmlunds.ax/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kreativa Uttryck AB"
     },
     "items": [
         {
-            "id": "https://malmlund.ax/vara-stugor.html",
-            "url": "https://malmlund.ax/vara-stugor.html",
+            "id": "https://malmlunds.ax/vara-stugor.html",
+            "url": "https://malmlunds.ax/vara-stugor.html",
             "title": "Våra stugor",
             "summary": "Hej",
             "content_html": "<p>Hej</p>",
