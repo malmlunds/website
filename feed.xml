@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Malmlunds stugor</title>
+    <link href="https://malmlund.ax/feed.xml" rel="self" />
+    <link href="https://malmlund.ax" />
+    <updated>2022-03-25T21:42:53+02:00</updated>
+    <author>
+        <name>Kreativa Uttryck AB</name>
+    </author>
+    <id>https://malmlund.ax</id>
+
+    <entry>
+        <title>Våra stugor</title>
+        <author>
+            <name>Kreativa Uttryck AB</name>
+        </author>
+        <link href="https://malmlund.ax/vara-stugor.html"/>
+        <id>https://malmlund.ax/vara-stugor.html</id>
+
+        <updated>2022-03-25T21:42:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hej
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hej</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

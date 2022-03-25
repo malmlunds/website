@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Malmlunds stugor",
+    "description": "",
+    "home_page_url": "https://malmlund.ax",
+    "feed_url": "https://malmlund.ax/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kreativa Uttryck AB"
+    },
+    "items": [
+        {
+            "id": "https://malmlund.ax/vara-stugor.html",
+            "url": "https://malmlund.ax/vara-stugor.html",
+            "title": "Våra stugor",
+            "summary": "Hej",
+            "content_html": "<p>Hej</p>",
+            "author": {
+                "name": "Kreativa Uttryck AB"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-25T21:42:53+02:00",
+            "date_modified": "2022-03-25T21:42:53+02:00"
+        }
+    ]
+}
