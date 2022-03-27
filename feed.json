@@ -13,6 +13,8 @@
             "id": "https://malmlunds.ax/kontakt/",
             "url": "https://malmlunds.ax/kontakt/",
             "title": "Kontakt",
+            "summary": "📞 0457 342 6554 📞 040 833 7004 📩 kontakt@malmlunds.ax",
+            "content_html": "<p>📞 0457 342 6554<br>📞 040 833 7004<br>📩 <a href=\"mailto:kontakt@malmlunds.ax\" target=\"_blank\" rel=\"noopener noreferrer\">kontakt@malmlunds.ax</a></p>",
             "image": "https://malmlunds.ax/media/posts/5/Stuga2-5.jpeg",
             "author": {
                 "name": "Pernilla Malmlund"
@@ -20,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-03-25T22:28:40+02:00",
-            "date_modified": "2022-03-25T22:53:09+02:00"
+            "date_modified": "2022-03-27T16:39:41+03:00"
         },
         {
             "id": "https://malmlunds.ax/foegloe/",

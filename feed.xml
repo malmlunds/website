@@ -3,7 +3,7 @@
     <title>Malmlunds stugor</title>
     <link href="https://malmlunds.ax/feed.xml" rel="self" />
     <link href="https://malmlunds.ax" />
-    <updated>2022-03-25T22:53:09+02:00</updated>
+    <updated>2022-03-27T16:39:41+03:00</updated>
     <author>
         <name>Pernilla Malmlund</name>
     </author>
@@ -17,9 +17,19 @@
         <link href="https://malmlunds.ax/kontakt/"/>
         <id>https://malmlunds.ax/kontakt/</id>
 
-        <updated>2022-03-25T22:53:09+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-03-27T16:39:41+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://malmlunds.ax/media/posts/5/Stuga2-5.jpeg" alt="" />
+                    📞 0457 342 6554 📞 040 833 7004 📩 kontakt@malmlunds.ax
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://malmlunds.ax/media/posts/5/Stuga2-5.jpeg" alt="" />
+                <p>📞 0457 342 6554<br>📞 040 833 7004<br>📩 <a href="mailto:kontakt@malmlunds.ax" target="_blank" rel="noopener noreferrer">kontakt@malmlunds.ax</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Föglö</title>
