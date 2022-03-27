@@ -3,7 +3,7 @@
     <title>Malmlunds stugor</title>
     <link href="https://malmlunds.ax/feed.xml" rel="self" />
     <link href="https://malmlunds.ax" />
-    <updated>2022-03-27T16:47:03+03:00</updated>
+    <updated>2022-03-27T16:49:10+03:00</updated>
     <author>
         <name>Pernilla Malmlund</name>
     </author>
@@ -52,8 +52,19 @@
         </author>
         <link href="https://malmlunds.ax/hitta-hit/"/>
         <id>https://malmlunds.ax/hitta-hit/</id>
+            <category term="stuga"/>
+            <category term="mökki"/>
+            <category term="map"/>
+            <category term="kontakt"/>
+            <category term="kartta"/>
+            <category term="karta"/>
+            <category term="hitta"/>
+            <category term="föglö"/>
+            <category term="find"/>
+            <category term="contact"/>
+            <category term="cabin"/>
 
-        <updated>2022-03-27T16:47:03+03:00</updated>
+        <updated>2022-03-27T16:48:53+03:00</updated>
             <summary>
                 <![CDATA[
                     Karta / Map /Karttaa
@@ -73,8 +84,12 @@
         </author>
         <link href="https://malmlunds.ax/vara-stugor/"/>
         <id>https://malmlunds.ax/vara-stugor/</id>
+            <category term="stuga"/>
+            <category term="mökki"/>
+            <category term="föglö"/>
+            <category term="cabin"/>
 
-        <updated>2022-03-25T22:17:35+02:00</updated>
+        <updated>2022-03-27T16:49:10+03:00</updated>
             <summary>
                 <![CDATA[
                     Är du sugen på att vara för dej själv? Semestra med din&hellip;
