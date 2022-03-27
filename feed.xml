@@ -3,7 +3,7 @@
     <title>Malmlunds stugor</title>
     <link href="https://malmlunds.ax/feed.xml" rel="self" />
     <link href="https://malmlunds.ax" />
-    <updated>2022-03-27T16:44:05+03:00</updated>
+    <updated>2022-03-27T16:47:03+03:00</updated>
     <author>
         <name>Pernilla Malmlund</name>
     </author>
@@ -53,9 +53,18 @@
         <link href="https://malmlunds.ax/hitta-hit/"/>
         <id>https://malmlunds.ax/hitta-hit/</id>
 
-        <updated>2022-03-25T22:49:12+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-03-27T16:47:03+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Karta / Map /Karttaa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7956.125368832496!2d20.536705080794565!3d60.097418650724485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468b21de45526159%3A0xa00b553b98ee7e0!2zVWx2ZXJzw7YgMjI3MTAsIMOFbGFuZA!5e0!3m2!1ssv!2s!4v1648388734537!5m2!1ssv!2s" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<p><a href="https://goo.gl/maps/8ZVbA8Gbgg2ztwSk8" target="_blank" rel="noopener noreferrer">Karta / Map /Karttaa</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Våra stugor</title>
